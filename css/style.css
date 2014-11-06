@@ -1,0 +1,13 @@
+.realign{position:relative; bottom:20px;}
+.contentalign{padding-bottom:70px;}
+.inline{display:inline;}
+.indent{text-indent:40px;}
+.brandmod{position:relative; left:28px; top:18px; font-size:45px;}
+#thumbnails li{list-style-type: none;}
+.col-md-2 {width: 17.5%;}
+.no-resize {max-height:265px; max-width:348px; min-width: 100px; min-height: 100px;}
+.no-resize-2 {max-height:90px; max-width:116px;}
+.no-resize-3 {max-height:63px; max-width:80px;}
+html{overflow-y: scroll;}
+a:hover{text-decoration: none;}
+.searchwrite{font-size:13px; border:none; padding-top: 5px; padding-bottom: 5px;}
